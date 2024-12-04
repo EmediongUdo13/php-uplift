@@ -45,7 +45,8 @@ function statem($a, $b, $c){
         } elseif(premid) {
             return "lesser";
         } else{
-            jkjgjfj
+            echo "jkjgjfj"
+
         }
     } else {
         return "lesser";
